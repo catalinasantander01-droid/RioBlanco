@@ -1,0 +1,450 @@
+﻿Id_Producto,Nombre,Tipo,Variedad,Estado_Madurez,Especie,Calibre,Codigo_Embalaje,N_Caja,Categoria,Tipo_Bin,Id_Proveedor
+CER001,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,4239,Exportacion,Bins Romano,PRO01
+CER002,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,1978,Exportacion,Bins Romano,PRO01
+CER003,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,7860,Exportacion,Bins Romano,PRO01
+CER004,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,400,5679,Exportacion,Bins Romano,PRO01
+CER005,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,2155,Exportacion,Bins Romano,PRO01
+CER006,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,7541,Exportacion,Bins Romano,PRO01
+CER007,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,400,860,Exportacion,Bins Romano,PRO01
+CER008,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,925,Exportacion,Bins Romano,PRO01
+CER009,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,7808,Exportacion,Bins Romano,PRO01
+CER010,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,6443,Exportacion,Bins Romano,PRO01
+CER011,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,2491,Exportacion,Bins Romano,PRO01
+CER012,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,7725,Exportacion,Bins Oasis,PRO01
+CER013,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,400,4050,Exportacion,Bins Oasis,PRO01
+CER014,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,3336,Exportacion,Bins Oasis,PRO01
+CER015,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,400,3689,Exportacion,Bins Romano,PRO01
+CER016,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,400,7666,Exportacion,Bins Romano,PRO01
+CER017,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,2787,Exportacion,Bins Oasis,PRO01
+CER018,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,5348,Exportacion,Bins Oasis,PRO01
+CER019,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,402,879,Exportacion,Bins Oasis,PRO01
+CER020,Cereza,Drupa,Lapins,Maduro,Cerezo Dulce,3,401,7917,Exportacion,Bins Romano,PRO01
+CER021,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,402,2791,Exportacion,Bins Plastico,PRO01
+CER022,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,5653,Exportacion,Bins Romano,PRO01
+CER023,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,965,Exportacion,Bins Romano,PRO01
+CER024,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,3002,Exportacion,Bins Romano,PRO01
+CER025,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,402,7536,Exportacion,Bins Plastico,PRO01
+CER026,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,411,Exportacion,Bins Romano,PRO01
+CER027,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,4566,Exportacion,Bins Romano,PRO01
+CER028,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,720,Exportacion,Bins Oasis,PRO01
+CER029,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,3978,Exportacion,Bins Oasis,PRO01
+CER030,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,7188,Exportacion,Bins Oasis,PRO01
+CER031,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,5397,Exportacion,Bins Romano,PRO01
+CER032,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,7225,Exportacion,Bins Romano,PRO01
+CER033,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,6879,Exportacion,Bins Oasis,PRO01
+CER034,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,3186,Exportacion,Bins Oasis,PRO01
+CER035,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,2530,Exportacion,Bins Oasis,PRO01
+CER036,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,3266,Exportacion,Bins Romano,PRO01
+CER037,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,3577,Exportacion,Bins Plastico,PRO01
+CER038,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,402,6406,Exportacion,Bins Romano,PRO01
+CER039,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,4686,Exportacion,Bins Romano,PRO01
+CER040,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,4461,Exportacion,Bins Romano,PRO01
+CER041,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,5024,Exportacion,Bins Plastico,PRO01
+CER042,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,402,5484,Exportacion,Bins Romano,PRO01
+CER043,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,418,Exportacion,Bins Romano,PRO01
+CER044,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,1211,Exportacion,Bins Romano,PRO01
+CER045,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,402,4659,Exportacion,Bins Romano,PRO01
+CER046,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,763,Exportacion,Bins Romano,PRO01
+CER047,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,7100,Exportacion,Bins Romano,PRO01
+CER048,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,400,3803,Exportacion,Bins Romano,PRO01
+CER049,Cereza,Drupa,Santina,Maduro,Cerezo Dulce,3,401,6660,Exportacion,Bins Romano,PRO01
+CIR050,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,514,Exportacion,Bins Romano,PRO01
+CIR051,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,5776,Exportacion,Bins Romano,PRO01
+CIR052,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,7049,Exportacion,Bins Plastico,PRO01
+CIR053,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,5865,Exportacion,Bins Romano,PRO01
+CIR054,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,3390,Exportacion,Bins Romano,PRO01
+CIR055,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,3353,Exportacion,Bins Romano,PRO01
+CIR056,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,6560,Exportacion,Bins Romano,PRO01
+CIR057,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,4700,Exportacion,Bins Romano,PRO01
+CIR058,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,401,4075,Exportacion,Bins Oasis,PRO01
+CIR059,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,5947,Exportacion,Bins Oasis,PRO01
+CIR060,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,7305,Exportacion,Bins Oasis,PRO01
+CIR061,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,3082,Exportacion,Bins Romano,PRO01
+CIR062,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,2920,Exportacion,Bins Plastico,PRO01
+CIR063,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,401,3446,Exportacion,Bins Romano,PRO01
+CIR064,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,401,3300,Exportacion,Bins Romano,PRO01
+CIR065,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,5227,Exportacion,Bins Romano,PRO01
+CIR066,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,627,Exportacion,Bins Plastico,PRO01
+CIR067,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,4126,Exportacion,Bins Romano,PRO01
+CIR068,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,401,3376,Exportacion,Bins Romano,PRO01
+CIR069,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,3488,Exportacion,Bins Romano,PRO01
+CIR070,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,3225,Exportacion,Bins Romano,PRO01
+CIR071,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,6852,Exportacion,Bins Romano,PRO01
+CIR072,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,423,Exportacion,Bins Oasis,PRO01
+CIR073,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,2289,Exportacion,Bins Oasis,PRO01
+CIR074,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,2619,Exportacion,Bins Romano,PRO01
+CIR075,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,7098,Exportacion,Bins Plastico,PRO01
+CIR076,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,400,3024,Exportacion,Bins Romano,PRO01
+CIR077,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,6353,Exportacion,Bins Romano,PRO01
+CIR078,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,2351,Exportacion,Bins Romano,PRO01
+CIR079,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,1207,Exportacion,Bins Plastico,PRO01
+CIR080,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,6138,Exportacion,Bins Romano,PRO01
+CIR081,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,402,2463,Exportacion,Bins Romano,PRO01
+CIR082,Ciruelas,Drupa,D'Agen,Maduro,Prunus,3,401,6653,Exportacion,Bins Romano,PRO01
+KIW083,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,7369,Exportacion,Bins Romano,PRO02
+KIW084,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,420,Exportacion,Bins Romano,PRO02
+KIW085,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,1229,Exportacion,Bins Romano,PRO02
+KIW086,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,6324,Exportacion,Bins Romano,PRO02
+KIW087,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,2040,Exportacion,Bins Oasis,PRO02
+KIW088,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,4783,Exportacion,Bins Oasis,PRO02
+KIW089,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,4884,Exportacion,Bins Oasis,PRO02
+KIW090,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,2665,Exportacion,Bins Romano,PRO02
+KIW091,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,4455,Exportacion,Bins Romano,PRO02
+KIW092,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,1009,Exportacion,Bins Romano,PRO02
+KIW093,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,5204,Exportacion,Bins Romano,PRO02
+KIW094,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,7028,Exportacion,Bins Romano,PRO02
+KIW095,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,4693,Exportacion,Bins Romano,PRO02
+KIW096,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,2416,Exportacion,Bins Romano,PRO02
+KIW097,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,5024,Exportacion,Bins Oasis,PRO02
+KIW098,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,660,Exportacion,Bins Oasis,PRO02
+KIW099,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,2716,Exportacion,Bins Oasis,PRO02
+KIW100,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,7910,Exportacion,Bins Romano,PRO02
+KIW101,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,4750,Exportacion,Bins Romano,PRO02
+KIW102,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,3932,Exportacion,Bins Oasis,PRO02
+KIW103,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,7665,Exportacion,Bins Oasis,PRO02
+KIW104,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,7741,Exportacion,Bins Oasis,PRO02
+KIW105,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,4010,Exportacion,Bins Romano,PRO02
+KIW106,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,6217,Exportacion,Bins Plastico,PRO02
+KIW107,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,3540,Exportacion,Bins Romano,PRO02
+KIW108,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,5179,Exportacion,Bins Romano,PRO02
+KIW109,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,2962,Exportacion,Bins Romano,PRO02
+KIW110,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,6166,Exportacion,Bins Plastico,PRO02
+KIW111,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,5005,Exportacion,Bins Romano,PRO02
+KIW112,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,2035,Exportacion,Bins Romano,PRO02
+KIW113,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,4315,Exportacion,Bins Oasis,PRO02
+KIW114,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,2527,Exportacion,Bins Oasis,PRO02
+KIW115,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,6862,Exportacion,Bins Oasis,PRO02
+KIW116,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,1853,Exportacion,Bins Romano,PRO02
+KIW117,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,2278,Exportacion,Bins Romano,PRO02
+KIW118,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,4103,Exportacion,Bins Oasis,PRO02
+KIW119,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,2112,Exportacion,Bins Oasis,PRO02
+KIW120,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,400,6665,Exportacion,Bins Oasis,PRO02
+KIW121,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,2108,Exportacion,Bins Romano,PRO02
+KIW122,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,402,1299,Exportacion,Bins Plastico,PRO02
+KIW123,Kiwi,Baya,Hayward,Maduro,Actinidia Chinensis,3,401,7766,Exportacion,Bins Romano,PRO02
+GRA124,Granada,Seco,Acco,Maduro,Granado,3,401,7743,Exportacion,Bins Romano,PRO03
+GRA125,Granada,Seco,Acco,Maduro,Granado,3,400,6401,Exportacion,Bins Romano,PRO03
+GRA126,Granada,Seco,Acco,Maduro,Granado,3,400,3412,Exportacion,Bins Plastico,PRO03
+GRA127,Granada,Seco,Acco,Maduro,Granado,3,401,4255,Exportacion,Bins Romano,PRO03
+GRA128,Granada,Seco,Acco,Maduro,Granado,3,402,4591,Exportacion,Bins Romano,PRO03
+GRA129,Granada,Seco,Acco,Maduro,Granado,3,402,2684,Exportacion,Bins Romano,PRO03
+GRA130,Granada,Seco,Acco,Maduro,Granado,3,402,2116,Exportacion,Bins Romano,PRO03
+GRA131,Granada,Seco,Acco,Maduro,Granado,3,401,6457,Exportacion,Bins Romano,PRO03
+GRA132,Granada,Seco,Acco,Maduro,Granado,3,400,7941,Exportacion,Bins Oasis,PRO03
+GRA133,Granada,Seco,Acco,Maduro,Granado,3,400,2623,Exportacion,Bins Oasis,PRO03
+GRA134,Granada,Seco,Acco,Maduro,Granado,3,400,2868,Exportacion,Bins Romano,PRO03
+GRA135,Granada,Seco,Acco,Maduro,Granado,3,402,1604,Exportacion,Bins Plastico,PRO03
+GRA136,Granada,Seco,Acco,Maduro,Granado,3,402,356,Exportacion,Bins Romano,PRO03
+GRA137,Granada,Seco,Acco,Maduro,Granado,3,401,6150,Exportacion,Bins Romano,PRO03
+GRA138,Granada,Seco,Acco,Maduro,Granado,3,400,6910,Exportacion,Bins Romano,PRO03
+GRA139,Granada,Seco,Acco,Maduro,Granado,3,401,6867,Exportacion,Bins Plastico,PRO03
+GRA140,Granada,Seco,Acco,Maduro,Granado,3,402,6325,Exportacion,Bins Romano,PRO03
+GRA141,Granada,Seco,Acco,Maduro,Granado,3,400,2161,Exportacion,Bins Romano,PRO03
+GRA142,Granada,Seco,Acco,Maduro,Granado,3,401,4399,Exportacion,Bins Romano,PRO03
+GRA143,Granada,Seco,Acco,Maduro,Granado,3,400,2604,Exportacion,Bins Romano,PRO03
+GRA144,Granada,Seco,Acco,Maduro,Granado,3,402,4970,Exportacion,Bins Romano,PRO03
+GRA145,Granada,Seco,Acco,Maduro,Granado,3,401,4447,Exportacion,Bins Oasis,PRO03
+GRA146,Granada,Seco,Acco,Maduro,Granado,3,400,2982,Exportacion,Bins Oasis,PRO03
+GRA147,Granada,Seco,Acco,Maduro,Granado,3,401,6743,Exportacion,Bins Romano,PRO03
+GRA148,Granada,Seco,Acco,Maduro,Granado,3,400,5948,Exportacion,Bins Plastico,PRO03
+GRA149,Granada,Seco,Acco,Maduro,Granado,3,401,4657,Exportacion,Bins Romano,PRO03
+MAN150,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4759,Exportacion,Bins Romano,PRO01
+MAN151,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,2435,Exportacion,Bins Oasis,PRO01
+MAN152,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,4290,Exportacion,Bins Oasis,PRO01
+MAN153,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1322,Exportacion,Bins Romano,PRO01
+MAN154,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4606,Exportacion,Bins Romano,PRO01
+MAN155,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,2924,Exportacion,Bins Romano,PRO01
+MAN156,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1746,Exportacion,Bins Romano,PRO01
+MAN157,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1013,Exportacion,Bins Romano,PRO01
+MAN158,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4170,Exportacion,Bins Romano,PRO01
+MAN159,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,5093,Exportacion,Bins Romano,PRO01
+MAN160,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,5194,Exportacion,Bins Romano,PRO01
+MAN161,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,2124,Exportacion,Bins Romano,PRO01
+MAN162,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4627,Exportacion,Bins Romano,PRO01
+MAN163,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4348,Exportacion,Bins Romano,PRO01
+MAN164,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,5095,Exportacion,Bins Romano,PRO01
+MAN165,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,5576,Exportacion,Bins Romano,PRO01
+MAN166,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,2313,Exportacion,Bins Oasis,PRO01
+MAN167,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,2837,Exportacion,Bins Oasis,PRO01
+MAN168,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,1272,Exportacion,Bins Oasis,PRO01
+MAN169,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,970,Exportacion,Bins Romano,PRO01
+MAN170,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1696,Exportacion,Bins Romano,PRO01
+MAN171,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,3986,Exportacion,Bins Oasis,PRO01
+MAN172,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,8437,Exportacion,Bins Oasis,PRO01
+MAN173,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,299,Exportacion,Bins Oasis,PRO01
+MAN174,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,2132,Exportacion,Bins Romano,PRO01
+MAN175,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2576,Exportacion,Bins Plastico,PRO01
+MAN176,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3594,Exportacion,Bins Romano,PRO01
+MAN177,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3417,Exportacion,Bins Romano,PRO01
+MAN178,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3093,Exportacion,Bins Romano,PRO01
+MAN179,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,1789,Exportacion,Bins Plastico,PRO01
+MAN180,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4768,Exportacion,Bins Romano,PRO01
+MAN181,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4500,Exportacion,Bins Romano,PRO01
+MAN182,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,1057,Exportacion,Bins Romano,PRO02
+MAN183,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,444,Exportacion,Bins Oasis,PRO02
+MAN184,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7026,Exportacion,Bins Oasis,PRO02
+MAN185,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,7643,Exportacion,Bins Romano,PRO02
+MAN186,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,7474,Exportacion,Bins Romano,PRO02
+MAN187,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,7067,Exportacion,Bins Romano,PRO02
+MAN188,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,1586,Exportacion,Bins Romano,PRO02
+MAN189,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,524,Exportacion,Bins Romano,PRO02
+MAN190,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7295,Exportacion,Bins Romano,PRO02
+MAN191,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2000,Exportacion,Bins Romano,PRO02
+MAN192,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,7004,Exportacion,Bins Romano,PRO02
+MAN193,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4905,Exportacion,Bins Romano,PRO02
+MAN194,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,3479,Exportacion,Bins Romano,PRO02
+MAN195,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2569,Exportacion,Bins Romano,PRO02
+MAN196,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,6417,Exportacion,Bins Romano,PRO02
+MAN197,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,680,Exportacion,Bins Romano,PRO02
+MAN198,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7948,Exportacion,Bins Oasis,PRO02
+MAN199,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,5769,Exportacion,Bins Oasis,PRO02
+MAN200,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,3479,Exportacion,Bins Oasis,PRO02
+MAN201,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,3003,Exportacion,Bins Romano,PRO02
+MAN202,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,5126,Exportacion,Bins Romano,PRO02
+MAN203,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,1602,Exportacion,Bins Oasis,PRO02
+MAN204,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2647,Exportacion,Bins Oasis,PRO02
+MAN205,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,6412,Exportacion,Bins Oasis,PRO02
+MAN206,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2929,Exportacion,Bins Romano,PRO02
+MAN207,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,674,Exportacion,Bins Plastico,PRO02
+MAN208,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,6524,Exportacion,Bins Romano,PRO02
+MAN209,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2061,Exportacion,Bins Romano,PRO02
+MAN210,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,1915,Exportacion,Bins Romano,PRO02
+MAN211,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2859,Exportacion,Bins Plastico,PRO02
+MAN212,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,5377,Exportacion,Bins Romano,PRO02
+MAN213,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,5326,Exportacion,Bins Romano,PRO02
+MAN214,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3681,Exportacion,Bins Romano,PRO02
+MAN215,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7478,Exportacion,Bins Oasis,PRO02
+MAN216,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3031,Exportacion,Bins Oasis,PRO02
+MAN217,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,363,Exportacion,Bins Romano,PRO02
+MAN218,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3084,Exportacion,Bins Romano,PRO02
+MAN219,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4098,Exportacion,Bins Romano,PRO02
+MAN220,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,754,Exportacion,Bins Romano,PRO02
+MAN221,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,941,Exportacion,Bins Romano,PRO02
+MAN222,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3277,Exportacion,Bins Romano,PRO02
+MAN223,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,4946,Exportacion,Bins Romano,PRO02
+MAN224,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7029,Exportacion,Bins Romano,PRO02
+MAN225,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,6929,Exportacion,Bins Romano,PRO02
+MAN226,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,5492,Exportacion,Bins Romano,PRO02
+MAN227,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,4784,Exportacion,Bins Romano,PRO02
+MAN228,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2801,Exportacion,Bins Romano,PRO02
+MAN229,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,5856,Exportacion,Bins Romano,PRO02
+MAN230,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,4797,Exportacion,Bins Oasis,PRO02
+MAN231,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1739,Exportacion,Bins Oasis,PRO02
+MAN232,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,4559,Exportacion,Bins Oasis,PRO02
+MAN233,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2927,Exportacion,Bins Romano,PRO02
+MAN234,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,7945,Exportacion,Bins Romano,PRO02
+MAN235,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,1891,Exportacion,Bins Oasis,PRO02
+MAN236,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,1146,Exportacion,Bins Oasis,PRO02
+MAN237,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,1223,Exportacion,Bins Oasis,PRO02
+MAN238,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,419,Exportacion,Bins Romano,PRO02
+MAN239,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,2058,Exportacion,Bins Plastico,PRO02
+MAN240,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,6635,Exportacion,Bins Romano,PRO02
+MAN241,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,6712,Exportacion,Bins Romano,PRO02
+MAN242,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,5634,Exportacion,Bins Romano,PRO02
+MAN243,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,6043,Exportacion,Bins Plastico,PRO02
+MAN244,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,4928,Exportacion,Bins Romano,PRO02
+MAN245,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,7746,Exportacion,Bins Romano,PRO02
+MAN246,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,1627,Exportacion,Bins Romano,PRO02
+MAN247,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,3782,Exportacion,Bins Oasis,PRO02
+MAN248,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,4379,Exportacion,Bins Oasis,PRO02
+MAN249,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,401,3409,Exportacion,Bins Romano,PRO02
+MAN250,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,5353,Exportacion,Bins Romano,PRO02
+MAN251,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,701,Exportacion,Bins Romano,PRO02
+MAN252,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,5770,Exportacion,Bins Romano,PRO02
+MAN253,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,402,2777,Exportacion,Bins Romano,PRO02
+MAN254,Mandarina,Citrico,W. Murcott,Maduro,Hibrida,3,400,6121,Exportacion,Bins Romano,PRO02
+NAR255,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,6054,Exportacion,Bins Romano,PRO03
+NAR256,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,5939,Exportacion,Bins Romano,PRO03
+NAR257,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,6397,Exportacion,Bins Romano,PRO03
+NAR258,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,4560,Exportacion,Bins Romano,PRO03
+NAR259,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,659,Exportacion,Bins Romano,PRO03
+NAR260,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,6713,Exportacion,Bins Romano,PRO03
+NAR261,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,4982,Exportacion,Bins Romano,PRO03
+NAR262,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,1897,Exportacion,Bins Oasis,PRO03
+NAR263,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,6617,Exportacion,Bins Oasis,PRO03
+NAR264,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,1461,Exportacion,Bins Oasis,PRO03
+NAR265,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,811,Exportacion,Bins Romano,PRO03
+NAR266,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,3626,Exportacion,Bins Romano,PRO03
+NAR267,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,6696,Exportacion,Bins Oasis,PRO03
+NAR268,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,1088,Exportacion,Bins Oasis,PRO03
+NAR269,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,1690,Exportacion,Bins Oasis,PRO03
+NAR270,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,6758,Exportacion,Bins Romano,PRO03
+NAR271,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,4370,Exportacion,Bins Plastico,PRO03
+NAR272,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,4539,Exportacion,Bins Romano,PRO03
+NAR273,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,5307,Exportacion,Bins Romano,PRO03
+NAR274,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,7173,Exportacion,Bins Romano,PRO03
+NAR275,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,7379,Exportacion,Bins Plastico,PRO03
+NAR276,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,2407,Exportacion,Bins Romano,PRO03
+NAR277,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,1029,Exportacion,Bins Romano,PRO03
+NAR278,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,4943,Exportacion,Bins Oasis,PRO03
+NAR279,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,4614,Exportacion,Bins Oasis,PRO03
+NAR280,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,5606,Exportacion,Bins Oasis,PRO03
+NAR281,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,5351,Exportacion,Bins Romano,PRO03
+NAR282,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,1178,Exportacion,Bins Romano,PRO03
+NAR283,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,6632,Exportacion,Bins Oasis,PRO03
+NAR284,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,7264,Exportacion,Bins Oasis,PRO03
+NAR285,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,6558,Exportacion,Bins Oasis,PRO03
+NAR286,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,333,Exportacion,Bins Romano,PRO03
+NAR287,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,2553,Exportacion,Bins Plastico,PRO03
+NAR288,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,6983,Exportacion,Bins Romano,PRO03
+NAR289,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,6227,Exportacion,Bins Romano,PRO03
+NAR290,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,4983,Exportacion,Bins Romano,PRO03
+NAR291,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,401,5635,Exportacion,Bins Plastico,PRO03
+NAR292,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,3804,Exportacion,Bins Romano,PRO03
+NAR293,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,402,953,Exportacion,Bins Romano,PRO03
+NAR294,Naranja,Citrico,Spring Navel,Maduro,Hibrida,3,400,6568,Exportacion,Bins Romano,PRO01
+NAR295,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,3844,Exportacion,Bins Romano,PRO01
+NAR296,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,7165,Exportacion,Bins Romano,PRO01
+NAR297,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,4760,Exportacion,Bins Romano,PRO01
+NAR298,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,3740,Exportacion,Bins Romano,PRO01
+NAR299,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,2477,Exportacion,Bins Romano,PRO01
+NAR300,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,2205,Exportacion,Bins Romano,PRO01
+NAR301,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,1319,Exportacion,Bins Romano,PRO01
+NAR302,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,4254,Exportacion,Bins Romano,PRO01
+NAR303,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,6777,Exportacion,Bins Romano,PRO01
+NAR304,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,6073,Exportacion,Bins Oasis,PRO01
+NAR305,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,4964,Exportacion,Bins Oasis,PRO01
+NAR306,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,2500,Exportacion,Bins Oasis,PRO01
+NAR307,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,996,Exportacion,Bins Romano,PRO01
+NAR308,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,630,Exportacion,Bins Romano,PRO01
+NAR309,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,3344,Exportacion,Bins Romano,PRO01
+NAR310,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,5711,Exportacion,Bins Romano,PRO01
+NAR311,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,3345,Exportacion,Bins Romano,PRO01
+NAR312,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,5581,Exportacion,Bins Romano,PRO01
+NAR313,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,3163,Exportacion,Bins Romano,PRO01
+NAR314,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,315,Exportacion,Bins Oasis,PRO01
+NAR315,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,4090,Exportacion,Bins Oasis,PRO01
+NAR316,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,5991,Exportacion,Bins Oasis,PRO01
+NAR317,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,6418,Exportacion,Bins Romano,PRO02
+NAR318,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,7490,Exportacion,Bins Romano,PRO02
+NAR319,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,4057,Exportacion,Bins Oasis,PRO02
+NAR320,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,6793,Exportacion,Bins Oasis,PRO02
+NAR321,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,5571,Exportacion,Bins Oasis,PRO02
+NAR322,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,1131,Exportacion,Bins Romano,PRO02
+NAR323,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,4506,Exportacion,Bins Plastico,PRO02
+NAR324,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,1929,Exportacion,Bins Romano,PRO02
+NAR325,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,2462,Exportacion,Bins Romano,PRO02
+NAR326,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,5326,Exportacion,Bins Romano,PRO02
+NAR327,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,796,Exportacion,Bins Plastico,PRO02
+NAR328,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,1650,Exportacion,Bins Romano,PRO02
+NAR329,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,6031,Exportacion,Bins Romano,PRO02
+NAR330,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,5737,Exportacion,Bins Oasis,PRO02
+NAR331,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,3874,Exportacion,Bins Oasis,PRO02
+NAR332,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,1102,Exportacion,Bins Oasis,PRO02
+NAR333,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,3276,Exportacion,Bins Romano,PRO02
+NAR334,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,6139,Exportacion,Bins Romano,PRO02
+NAR335,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,333,Exportacion,Bins Oasis,PRO02
+NAR336,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,541,Exportacion,Bins Oasis,PRO02
+NAR337,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,2577,Exportacion,Bins Oasis,PRO02
+NAR338,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,6071,Exportacion,Bins Romano,PRO02
+NAR339,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,2036,Exportacion,Bins Plastico,PRO02
+NAR340,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,6006,Exportacion,Bins Romano,PRO02
+NAR341,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,7143,Exportacion,Bins Romano,PRO02
+NAR342,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,1958,Exportacion,Bins Romano,PRO02
+NAR343,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,5754,Exportacion,Bins Plastico,PRO02
+NAR344,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,402,7188,Exportacion,Bins Romano,PRO02
+NAR345,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,4986,Exportacion,Bins Romano,PRO02
+NAR346,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,7182,Exportacion,Bins Romano,PRO02
+NAR347,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,400,6411,Exportacion,Bins Romano,PRO02
+NAR348,Naranja,Citrico,Fukumoto,Maduro,Naranjo Dulce,3,401,2056,Exportacion,Bins Romano,PRO02
+UVA349,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2170,Exportacion,Bins Romano,PRO03
+UVA350,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,7252,Exportacion,Bins Oasis,PRO03
+UVA351,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3127,Exportacion,Bins Oasis,PRO03
+UVA352,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6561,Exportacion,Bins Romano,PRO03
+UVA353,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,1172,Exportacion,Bins Romano,PRO03
+UVA354,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,681,Exportacion,Bins Romano,PRO03
+UVA355,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,4828,Exportacion,Bins Romano,PRO03
+UVA356,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,6009,Exportacion,Bins Romano,PRO03
+UVA357,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6978,Exportacion,Bins Romano,PRO03
+UVA358,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,1137,Exportacion,Bins Romano,PRO03
+UVA359,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3679,Exportacion,Bins Romano,PRO03
+UVA360,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,5170,Exportacion,Bins Romano,PRO03
+UVA361,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,1550,Exportacion,Bins Romano,PRO03
+UVA362,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2256,Exportacion,Bins Romano,PRO03
+UVA363,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,1358,Exportacion,Bins Romano,PRO03
+UVA364,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3270,Exportacion,Bins Romano,PRO03
+UVA365,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,5221,Exportacion,Bins Oasis,PRO03
+UVA366,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2254,Exportacion,Bins Oasis,PRO03
+UVA367,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,7287,Exportacion,Bins Oasis,PRO03
+UVA368,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3098,Exportacion,Bins Romano,PRO03
+UVA369,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6642,Exportacion,Bins Romano,PRO03
+UVA370,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,7268,Exportacion,Bins Oasis,PRO03
+UVA371,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6867,Exportacion,Bins Oasis,PRO03
+UVA372,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2036,Exportacion,Bins Oasis,PRO03
+UVA373,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,6251,Exportacion,Bins Romano,PRO03
+UVA374,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2932,Exportacion,Bins Plastico,PRO03
+UVA375,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3340,Exportacion,Bins Romano,PRO03
+UVA376,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,3194,Exportacion,Bins Romano,PRO03
+UVA377,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,6977,Exportacion,Bins Romano,PRO03
+UVA378,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,434,Exportacion,Bins Plastico,PRO03
+UVA379,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6501,Exportacion,Bins Romano,PRO03
+UVA380,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,6913,Exportacion,Bins Romano,PRO03
+UVA381,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,7067,Exportacion,Bins Romano,PRO03
+UVA382,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3180,Exportacion,Bins Oasis,PRO03
+UVA383,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,5830,Exportacion,Bins Oasis,PRO03
+UVA384,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,5845,Exportacion,Bins Romano,PRO03
+UVA385,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,7220,Exportacion,Bins Romano,PRO03
+UVA386,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2759,Exportacion,Bins Romano,PRO03
+UVA387,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2729,Exportacion,Bins Romano,PRO03
+UVA388,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2110,Exportacion,Bins Romano,PRO03
+UVA389,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2301,Exportacion,Bins Romano,PRO03
+UVA390,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6744,Exportacion,Bins Romano,PRO03
+UVA391,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,3064,Exportacion,Bins Romano,PRO03
+UVA392,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6929,Exportacion,Bins Romano,PRO03
+UVA393,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,5410,Exportacion,Bins Romano,PRO03
+UVA394,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2409,Exportacion,Bins Romano,PRO03
+UVA395,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2610,Exportacion,Bins Romano,PRO03
+UVA396,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,4996,Exportacion,Bins Romano,PRO03
+UVA397,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2467,Exportacion,Bins Oasis,PRO03
+UVA398,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,5521,Exportacion,Bins Oasis,PRO03
+UVA399,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,7620,Exportacion,Bins Oasis,PRO03
+UVA400,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,7684,Exportacion,Bins Romano,PRO03
+UVA401,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2984,Exportacion,Bins Romano,PRO03
+UVA402,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,7397,Exportacion,Bins Oasis,PRO03
+UVA403,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,3649,Exportacion,Bins Oasis,PRO03
+UVA404,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6656,Exportacion,Bins Oasis,PRO03
+UVA405,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2131,Exportacion,Bins Romano,PRO03
+UVA406,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6050,Exportacion,Bins Plastico,PRO03
+UVA407,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,7572,Exportacion,Bins Romano,PRO03
+UVA408,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6263,Exportacion,Bins Romano,PRO03
+UVA409,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,7194,Exportacion,Bins Romano,PRO03
+UVA410,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,5893,Exportacion,Bins Plastico,PRO03
+UVA411,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6629,Exportacion,Bins Romano,PRO03
+UVA412,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,1629,Exportacion,Bins Romano,PRO03
+UVA413,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,651,Exportacion,Bins Romano,PRO03
+UVA414,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2282,Exportacion,Bins Oasis,PRO03
+UVA415,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,4343,Exportacion,Bins Oasis,PRO03
+UVA416,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,994,Exportacion,Bins Romano,PRO03
+UVA417,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,1865,Exportacion,Bins Romano,PRO03
+UVA418,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2044,Exportacion,Bins Romano,PRO03
+UVA419,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,3764,Exportacion,Bins Romano,PRO03
+UVA420,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2092,Exportacion,Bins Romano,PRO03
+UVA421,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3129,Exportacion,Bins Romano,PRO03
+UVA422,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,3520,Exportacion,Bins Romano,PRO03
+UVA423,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,4597,Exportacion,Bins Romano,PRO03
+UVA424,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2169,Exportacion,Bins Romano,PRO03
+UVA425,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2087,Exportacion,Bins Romano,PRO03
+UVA426,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,5206,Exportacion,Bins Romano,PRO03
+UVA427,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3910,Exportacion,Bins Romano,PRO03
+UVA428,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,660,Exportacion,Bins Romano,PRO03
+UVA429,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,4682,Exportacion,Bins Oasis,PRO03
+UVA430,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,374,Exportacion,Bins Oasis,PRO03
+UVA431,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,1760,Exportacion,Bins Oasis,PRO03
+UVA432,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,6718,Exportacion,Bins Romano,PRO03
+UVA433,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,4138,Exportacion,Bins Romano,PRO03
+UVA434,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,727,Exportacion,Bins Oasis,PRO03
+UVA435,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,5968,Exportacion,Bins Oasis,PRO03
+UVA436,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3933,Exportacion,Bins Oasis,PRO03
+UVA437,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,1065,Exportacion,Bins Romano,PRO03
+UVA438,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,1158,Exportacion,Bins Plastico,PRO03
+UVA439,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2018,Exportacion,Bins Romano,PRO03
+UVA440,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,401,2686,Exportacion,Bins Romano,PRO03
+UVA441,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2345,Exportacion,Bins Romano,PRO03
+UVA442,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,3633,Exportacion,Bins Plastico,PRO03
+UVA443,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2391,Exportacion,Bins Romano,PRO03
+UVA444,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,2150,Exportacion,Bins Romano,PRO03
+UVA445,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,6907,Exportacion,Bins Romano,PRO03
+UVA446,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,402,4958,Exportacion,Bins Oasis,PRO03
+UVA447,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,3630,Exportacion,Bins Oasis,PRO03
+UVA448,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2043,Exportacion,Bins Romano,PRO03
+UVA449,Uva Verde,Baya,Arra Sweeties,Maduro,Sin Semilla,3,400,2858,Exportacion,Bins Romano,PRO03

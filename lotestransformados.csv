@@ -1,0 +1,13 @@
+﻿Id_Lote,N_Cuartel,N_Lote,Transporte,Origen,Fecha_Cosecha
+LOT001,46,237,Camión,Coquimbo,2024-12-11
+LOT002,55,261,Camión,Coquimbo,2025-02-26
+LOT003,53,409,Camión,Santiago,2025-04-17
+LOT004,44,446,Camión,Coquimbo,2025-04-25
+LOT005,40,476,Camión,Coquimbo,2025-04-25
+LOT007,12,526,Camión,Coquimbo,2025-08-01
+LOT008,59,589,Camión,Santiago,2025-08-01
+LOT009,60,621,Camión,Coquimbo,2025-08-01
+LOT011,65,699,Camión,Coquimbo,2025-08-05
+LOT012,52,674,Camión,Coquimbo,2025-08-05
+LOT013,89,756,Camión,Coquimbo,2025-08-05
+LOT014,58,760,Camión,Coquimbo,2025-09-07
